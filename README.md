@@ -1,2 +1,2 @@
 # Pong
-Single player pong game
+The following program is a quizlet made by Nandish Panchal and Nishit Thakkar
